@@ -1,0 +1,6 @@
+{
+  "reject": [
+    "reflect-metadata",
+    "@fastify/static"
+  ]
+}
