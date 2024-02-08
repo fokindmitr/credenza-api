@@ -1,3 +1,3 @@
 module.exports = {
-  ...require('@repo/prettier-config/base.js'),
+  ...require('@repo/prettier-config/base'),
 }
